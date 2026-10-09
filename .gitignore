@@ -1,0 +1,14 @@
+# Paper drafting (explicitly excluded)
+paper_drafting/
+
+# Large dataset files (exceeding GitHub's 100MB file limit)
+data/electricity.csv
+data/electricityloaddiagrams20112014/
+__MACOSX/
+
+# Python & Jupyter temp files
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
