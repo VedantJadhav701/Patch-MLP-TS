@@ -1,7 +1,7 @@
 # Paper drafting (explicitly excluded)
 paper_drafting/
 
-# Large dataset files (exceeding GitHub's 100MB file limit)
+# Uncompressed 140MB+ raw file (use electricity.csv.gz instead)
 data/electricity.csv
 data/electricityloaddiagrams20112014/
 __MACOSX/
